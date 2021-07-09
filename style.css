@@ -7,19 +7,24 @@
 }
 
 body {
-    background-color: #333332;
+    background-color: #0a0a0a;
     font-family: 'Poppins', sans-serif;
 }
 
 .wrapper {
     padding: 30px 50px;
-    border: 1px solid #ddd;
-    border-radius: 15px;
     margin: 10px auto;
     max-width: 600px;
+    background-color:#0a0a0a;
 }
 
-h4 {
+h1 {
+    letter-spacing: -1px;
+    font-weight: 400;
+    color: white;
+}
+
+h5 {
     letter-spacing: -1px;
     font-weight: 400;
     color: white;
@@ -78,7 +83,7 @@ select:focus {
 }
 
 .button:hover {
-    background-color: #333332;
+    background-color: #0a0a0a;
     color: #fff
 }
 
@@ -87,7 +92,7 @@ select:focus {
 }
 
 .btn-primary:hover{
-    background-color: #333332;
+    background-color: #0a0a0a;
     color: black;
 }
 
