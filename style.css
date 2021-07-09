@@ -33,6 +33,7 @@ h5 {
     padding-bottom: 5px;
     display: block;
     border-bottom: 0.5px solid;
+    border-color: #292929;
 }
 
 .img {
@@ -40,20 +41,6 @@ h5 {
     height: 70px;
     border-radius: 6px;
     object-fit: cover
-}
-
-#img-section p,
-#deactivate p {
-    font-size: 12px;
-    color: #777;
-    margin-bottom: 10px;
-    text-align: justify
-}
-
-#img-section b,
-#img-section button,
-#deactivate b {
-    font-size: 14px
 }
 
 label {
